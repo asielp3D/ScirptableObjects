@@ -136,6 +136,10 @@ PrefabInstance:
       value: ItemSlot (1)
       objectReference: {fileID: 0}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1408395351}
@@ -272,6 +276,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemSlot (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
@@ -1384,6 +1392,10 @@ PrefabInstance:
       value: ItemSlot (5)
       objectReference: {fileID: 0}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1408395351}
@@ -1760,6 +1772,10 @@ PrefabInstance:
       value: ItemSlot (6)
       objectReference: {fileID: 0}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1408395351}
@@ -2013,6 +2029,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemSlot (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
@@ -2687,6 +2707,10 @@ PrefabInstance:
       value: ItemSlot (7)
       objectReference: {fileID: 0}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
       objectReference: {fileID: 1408395351}
@@ -2828,7 +2852,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1786383866
 RectTransform:
   m_ObjectHideFlags: 0
@@ -2904,6 +2928,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemSlot (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
@@ -3273,6 +3301,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: ItemSlot
       objectReference: {fileID: 0}
+    - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
+      propertyPath: closeButton
+      value: 
+      objectReference: {fileID: 758459828}
     - target: {fileID: 5748522248184476377, guid: 4e28087b57d8a4f4e9eb74a5590adf04, type: 3}
       propertyPath: deleteButton
       value: 
